@@ -6,7 +6,7 @@ app = express();
 app.use(bodyParser.json());
 
 
-app.post('/you-have-call',(req,res)=>{
+app.post('/webhook/cdr',(req,res)=>{
 
     //Received CDR JSON Object from TeleCMI platform
     var cdr = req.body;
