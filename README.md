@@ -1,6 +1,6 @@
-# TeleCMI Webhook Javacript
+# TeleCMI Webhook NodeJS
 
-TeleCMI webhooks implementation in javascript. Use our simple javascript web server to test your webhooks and live events locally for development purpose.
+TeleCMI webhooks implementation in Nodejs. Use our simple node web server to test your webhooks and live events locally for development purpose.
 
 ## Install
 
@@ -8,7 +8,7 @@ Follow the below installation instructions
 
 ### Prerequisites
 
-Prerequisites for javascript web server.
+Prerequisites for node web server.
 
 - <a href="https://git-scm.com/" target="_blank">git</a> (>= 2.20.1 required)
 - <a href="https://nodejs.org/en/" target="_blank">node.js</a> (>= v10.16.3 required)
@@ -17,7 +17,7 @@ Prerequisites for javascript web server.
 
 ### Clone the repository
 
-Use command __git clone__ to clone the javascript webserver from our <a href="https://github.com/telecmi/telecmi_example_node" target="_blank">TeleCMI github repository</a>.
+Use command __git clone__ to clone the node webserver from our <a href="https://github.com/telecmi/telecmi_example_node" target="_blank">TeleCMI github repository</a>.
 ```bash
 $ git clone https://github.com/telecmi/telecmi_example_node.git
 $ cd telecmi_example_node
